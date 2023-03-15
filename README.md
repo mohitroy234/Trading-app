@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/109425805/225235707-86a637a6-1ee8-45de-85b1-af876eb18df9.mp4
+
 # Trading app
 
 A new Flutter project.
